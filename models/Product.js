@@ -38,7 +38,7 @@ Product.init(
     },
     category_id:{
       types: DataTypes.INTEGER,
-      
+
     }
   },
   {
