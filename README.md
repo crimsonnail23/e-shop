@@ -12,6 +12,10 @@ organized so that customers can easily find what they are looking for.
 
 https://github.com/crimsonnail23/e-shop
 
+# video walkthrough.
+
+https://drive.google.com/file/d/13IBmkijAMpiv306ZX_LMedJIakMDXeK0/view 
+
 # screenshots.
 
 ![e-shop screenshot](/src/assets/images/e-shop-screenshot.jpg?raw=true)
